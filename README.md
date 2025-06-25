@@ -33,5 +33,6 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/></a> 
 <a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="40" height="40"/></a> 
 <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg" alt="salesforce" width="80" height="40"/></a> 
+<a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-icon.svg" alt="copilot" width="80" height="40"/></a> 
 
 </p>
