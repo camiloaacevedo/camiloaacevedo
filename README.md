@@ -10,6 +10,7 @@
 <a href="https://www.linkedin.com/in/camilo-a-acevedo-292750331/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeyneptas1" height="30" width="40" /></a>
 <a href="https://www.instagram.com/camiacevedoc_/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" height="40" width="40" /></a>
 
+
 </p>
 <h3 align="left">Languages and Tools:</h3>
 
@@ -22,6 +23,7 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/512317/github-142.svg" alt="github" width="40" height="40"/></a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/></a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/></a> 
+<a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://brandlogos.net/wp-content/uploads/2025/04/angular_icon-logo_brandlogos.net_jn7wi-512x542.png" alt="angular" width="40" height="40"/></a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/></a> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="40" height="40"/></a> 
