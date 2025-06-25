@@ -3,10 +3,13 @@
 📫 How to reach me camiacevedoc15@gmail.com
 
 Connect with me:
-zeyneptas1 zeynep-taş zeyneptas72 @zeyneptas1301 zeyneptas106
+![LinkedIn](https://www.linkedin.com/in/camilo-a-acevedo-292750331/)
 
 Languages and Tools:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+![Python](https://www.svgrepo.com/svg/452091/python)
+![JavaScript](https://www.svgrepo.com/svg/303206/javascript-logo)
+![TypeScript](https://www.svgrepo.com/svg/374146/typescript-official)
+![Java](https://www.svgrepo.com/svg/452234/java)
+![HTML5](https://www.svgrepo.com/svg/452228/html-5)
+![NodeJS](https://www.svgrepo.com/svg/373931/node2)
