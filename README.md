@@ -7,7 +7,7 @@ Connect with me:
 
 Languages and Tools:
 
-![Python]![image](https://github.com/user-attachments/assets/e6a889a6-71cd-4daa-aeb2-6bfb31e29f66)
+![Python]https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
 
 ![JavaScript](https://www.svgrepo.com/svg/303206/javascript-logo)
 ![TypeScript](https://www.svgrepo.com/svg/374146/typescript-official)
