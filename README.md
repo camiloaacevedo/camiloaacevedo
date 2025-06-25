@@ -1,16 +1,18 @@
-🌱 I’m currently learning Angular CLI
+<h1 align="center">Hi 👋, I'm Camilo</h1>
+<h3 align="center">A System Engineering Student.</h3>
 
-📫 How to reach me camiacevedoc15@gmail.com
+- 🌱 I’m currently learning **Angular CLI Framework**
 
-Connect with me:
-![LinkedIn](https://www.linkedin.com/in/camilo-a-acevedo-292750331/)
+- 📫 How to reach me **camiacevedoc15@gmail.com**
 
-Languages and Tools:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/camilo-a-acevedo-292750331/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeyneptas1" height="30" width="40" /></a>
 
-![Python]https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
 
-![JavaScript](https://www.svgrepo.com/svg/303206/javascript-logo)
-![TypeScript](https://www.svgrepo.com/svg/374146/typescript-official)
-![Java](https://www.svgrepo.com/svg/452234/java)
-![HTML5](https://www.svgrepo.com/svg/452228/html-5)
-![NodeJS](https://www.svgrepo.com/svg/373931/node2)
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+</p>
