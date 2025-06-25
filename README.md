@@ -20,7 +20,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/></a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" alt="typescript" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://c0.klipartz.com/pngpicture/551/770/gratis-png-github-pages-logo-repositorio-tenedor-github.png" alt="github" width="40" height="40"/></a> 
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://p7.hiclipart.com/preview/551/770/413/github-pages-logo-repository-fork-github.jpg" alt="github" width="40" height="40"/></a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/></a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/></a> 
 <a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://brandlogos.net/wp-content/uploads/2025/04/angular_icon-logo_brandlogos.net_jn7wi-512x542.png" alt="angular" width="40" height="40"/></a> 
