@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Camilo</h1>
-<h3 align="center">A System Engineering Student.</h3>
+<h3 align="center">A Systems Engineering Student.</h3>
 
 - 🌱 I’m currently learning **Angular CLI Framework**
 
