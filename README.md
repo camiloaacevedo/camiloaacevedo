@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Camilo</h1>
 <h3 align="center">A Systems Engineering Student.</h3>
 
-- 🌱 I’m currently learning **Angular CLI Framework**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **camiacevedoc15@gmail.com**
 
