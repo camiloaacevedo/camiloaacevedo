@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Camilo</h1>
-<h3 align="left">A Systems Engineering Student.</h3>
+<h3 align="left">A Computer Systems Engineering Student.</h3>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Flutter on Mobile**
 
 - 📫 How to reach me **camiacevedoc15@gmail.com**
 
