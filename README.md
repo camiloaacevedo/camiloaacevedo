@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Camilo</h1>
-<h3 align="left">A Systems and Computing Engineering student.</h3>
+<h3 align="left">A Systems and Computer Engineering student.</h3>
 
 - 🌱 I’m currently learning **Flutter on Mobile**
 
