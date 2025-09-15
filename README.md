@@ -29,6 +29,8 @@
   <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="arch" width="40" height="40"/></a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/></a> 
   <a href="https://daisyui.com/" target="_blank" rel="noreferrer"> <img src="https://img.daisyui.com/images/daisyui/mark-rotating.svg" alt="daisyui" width="40" height="40"/></a> 
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373604/flutter.svg" alt="flutter" width="40" height="40"/></a> 
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353631/dart.svg" alt="dart" width="40" height="40"/></a> 
 </p>
 
 <h3 align="left">Stats:</h3>
