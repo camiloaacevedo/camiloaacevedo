@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Camilo</h1>
 <h3 align="left">A Systems and Computer Engineering student.</h3>
 
-- 🌱 I’m currently learning **Flutter on Mobile** and taking a **HCIA-openEuler** certification course
+- 🌱 I’m currently learning **German**
 
 - 📫 How to reach me **camiacevedoc15@gmail.com**
 
