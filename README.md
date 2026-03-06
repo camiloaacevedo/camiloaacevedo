@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Camilo</h1>
 <h3 align="left">A Systems and Computer Engineering student.</h3>
 
-- 🌱 I’m currently learning **German, Databases, Networking and Computer Esctructure**
+- 🌱 I’m currently learning **German, Databases, Networking and Computer Structure**
 
 - 📫 How to reach me **camiacevedoc15@gmail.com**
 
@@ -32,9 +32,3 @@
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373604/flutter.svg" alt="flutter" width="40" height="40"/></a> 
   <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353631/dart.svg" alt="dart" width="40" height="40"/></a> 
 </p>
-
-<h3 align="left">Stats:</h3>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=camiloaacevedo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=camiloaacevedo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
