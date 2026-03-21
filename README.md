@@ -31,6 +31,8 @@
   <a href="https://daisyui.com/" target="_blank" rel="noreferrer"> <img src="https://img.daisyui.com/images/daisyui/mark-rotating.svg" alt="daisyui" width="40" height="40"/></a> 
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373604/flutter.svg" alt="flutter" width="40" height="40"/></a> 
   <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353631/dart.svg" alt="dart" width="40" height="40"/></a> 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="nextjs" width="40" height="40"/></a> 
+  <a href="https://claude.ai/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" alt="claude" width="40" height="40"/></a> 
 </p>
 
 <h3 align="left">Stats:</h3>
