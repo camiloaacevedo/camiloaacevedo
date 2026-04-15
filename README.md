@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/camiloaacevedo/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
   </a>
 </p>
 
@@ -33,8 +33,8 @@
   <a href="https://archlinux.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40"/></a>
   <a href="https://daisyui.com/" target="_blank"><img src="https://img.daisyui.com/images/daisyui/mark-rotating.svg" width="40"/></a>
-  <br>
   <a href="https://flutter.dev/" target="_blank"><img src="https://www.svgrepo.com/show/373604/flutter.svg" width="40"/></a>
+  <br>
   <a href="https://dart.dev/" target="_blank"><img src="https://www.svgrepo.com/show/353631/dart.svg" width="40"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://i.postimg.cc/Kvtwb6ry/4l8sj9rclkbbd6sw-wq6s1cuidn6b.png" width="40"/></a>
   <a href="https://claude.ai/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" width="40"/></a>
