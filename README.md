@@ -22,9 +22,6 @@
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" width="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://www.svgrepo.com/show/450156/github.svg" width="40"/></a>
-  <br><br>
-
-  <!-- fila 2 -->
   <a href="https://nodejs.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40"/></a>
   <a href="https://angular.dev/" target="_blank"><img src="https://brandlogos.net/wp-content/uploads/2025/04/angular_icon-logo_brandlogos.net_jn7wi-512x542.png" width="40"/></a>
