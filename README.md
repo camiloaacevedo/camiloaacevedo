@@ -28,9 +28,6 @@
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40"/></a>
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" width="40"/></a>
-  <br><br>
-
-  <!-- fila 3 -->
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg" width="40"/></a>
   <a href="https://archlinux.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="40"/></a>
