@@ -14,7 +14,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <!-- fila 1 -->
   <a href="https://www.java.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40"/></a>
@@ -35,7 +34,7 @@
   <a href="https://daisyui.com/" target="_blank"><img src="https://img.daisyui.com/images/daisyui/mark-rotating.svg" width="40"/></a>
   <a href="https://flutter.dev/" target="_blank"><img src="https://www.svgrepo.com/show/373604/flutter.svg" width="40"/></a>
   <a href="https://dart.dev/" target="_blank"><img src="https://www.svgrepo.com/show/353631/dart.svg" width="40"/></a> 
-  <a href="https://nextjs.org/" target="_blank"><img src="https://i.postimg.cc/Kvtwb6ry/4l8sj9rclkbbd6sw-wq6s1cuidn6b.png" width="40"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="40"/></a>
   <a href="https://claude.ai/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" width="40"/></a>
 </p>
 
