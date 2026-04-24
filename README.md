@@ -37,6 +37,7 @@
   <a href="https://nextjs.org/" target="_blank"><img src="https://i.postimg.cc/Kvtwb6ry/4l8sj9rclkbbd6sw-wq6s1cuidn6b.png" width="40"/></a>
   <a href="https://claude.ai/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" width="40"/></a>
   <a href="https://supabase.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/supabase.svg" width="40"/></a>
+  <a href="https://neo4j.com/" target="_blank"><img src="https://i.postimg.cc/JtwYpShL/neo4j.png" width="40"/></a>
 </p>
 
 <h3 align="left">Stats:</h3>
