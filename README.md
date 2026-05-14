@@ -36,7 +36,7 @@
   <a href="https://dart.dev/" target="_blank"><img src="https://www.svgrepo.com/show/353631/dart.svg" width="40"/></a> 
   <a href="https://nextjs.org/" target="_blank"><img src="https://i.postimg.cc/Kvtwb6ry/4l8sj9rclkbbd6sw-wq6s1cuidn6b.png" width="40"/></a>
   <a href="https://claude.ai/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" width="40"/></a>
-  <a href="https://supabase.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/supabase.svg" width="40"/></a>
+  <a href="https://supabase.com/" target="_blank"><img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/00551801d43f7ba2334094f6fe1092c4f4f656d4/svg/supabase.svg" width="40"/></a>
   <a href="https://neo4j.com/" target="_blank"><img src="https://i.postimg.cc/rwqGJq99/neo4j.png" width="40"/></a>
 </p>
 
