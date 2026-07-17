@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Camilo</h1>
 <h3 align="left">A Systems and Computer Engineering student.</h3>
 
-- 🌱 I’m currently learning **German, Databases, Networking and Computer Structure**
+- 🌱 I’m currently learning **German, Software Design, Optimization, Operating Systems, Computer Structure, and Cryptography**
 - 📫 How to reach me **camiacevedoc15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
