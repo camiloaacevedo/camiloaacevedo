@@ -41,10 +41,8 @@
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/docker-engine.svg" width="40"/></a>
 </p>
 
-<h3 align="left">Stats:</h3>
-<div align="left">
-  | | |
+### Stats:
+
+| | |
 | :---: | :---: |
-  | <img src="https://github-readme-stats-fast.vercel.app/api?username=camiloaacevedo&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="150"/> |
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=camiloaacevedo&layout=compact&theme=tokyonight&hide_border=true&card_width=380" height="150"/> |
-</div>
+| <img src="https://github-readme-stats-fast.vercel.app/api?username=camiloacevedo&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="150"/> | <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=camiloacevedo&layout-compact=true&theme=tokyonight&hide_border=true&card_width=380" height="150"/> |
