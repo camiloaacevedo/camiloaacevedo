@@ -43,6 +43,6 @@
 
 <h3 align="left">Stats:</h3>
 <div align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=camiloaacevedo&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=camiloaacevedo&layout=compact&theme=tokyonight&hide_border=true" height="150" weight="300"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=camiloaacevedo&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=tru" height="150"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=camiloaacevedo&layout=compact&theme=tokyonight&card_width=415" height="150"/>
 </div>
