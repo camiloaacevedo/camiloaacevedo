@@ -45,5 +45,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=camiloaacevedo&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=camiloaacevedo&layout=compact&theme=tokyonight&hide_border=true&card_width=380" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=camiloaacevedo&layout=compact&theme=tokyonight&hide_border=true&card_width=380" height="150" width="48%" />
 </p>
